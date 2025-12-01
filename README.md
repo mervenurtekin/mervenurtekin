@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm an Industrial Engineering Student.
 
-* 🌱 I’m currently learning **Python (Pandas), SQL , Excel and Six Sigma**
+* 🌱 I’m currently learning **Python (Pandas), SQL , Microsoft Excel and Six Sigma**
 
 * 🏭 Interested in: **Production Planning, Data Analysis**
 
